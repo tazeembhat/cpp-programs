@@ -1,4 +1,4 @@
-// Area of Cirlce
+// Program to find the area of circle
 #include<iostream>
 #include<conio.h>
 using namespace std;
