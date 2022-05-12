@@ -1,4 +1,4 @@
-//Finding maximum marks of a student
+// Program to find max marks of a student
 #include<iostream>
 #include<conio.h>
 using namespace std;
