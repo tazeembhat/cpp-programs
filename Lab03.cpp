@@ -1,4 +1,4 @@
-// Lab 03
+// Program to find max marks of a student
 #include<iostream>
 #include<conio.h>
 using namespace std;
